@@ -92,7 +92,10 @@ The Streamlit application allows users to:
 - Optionally provide advanced cardiac test results
 - Receive predictions through a clean and beginner-friendly interface
 
-**🔗 Live Demo:** *(Add your Streamlit Cloud URL here after deployment.)*
+**🔗 Live Demo:** 
+https://heartdiseaseriskpredictor-vzop5baqynkdefpwh2uwx8.streamlit.app/
+
+
 
 ---
 
@@ -176,7 +179,6 @@ Ensure `heart.csv` is located in the project directory.
 5. Choose `app.py` as the entry point.
 6. Click **Deploy**.
 
-Once deployed, update the **Live Demo** section with your public URL.
 
 ---
 
@@ -203,10 +205,9 @@ Once deployed, update the **Live Demo** section with your public URL.
 
 ---
 
-# 👨‍💻 Team
+# 👨‍💻 Created by
 
-Vedansh Sharma · Preeyansh Arora · **Apan Sirohi** · Lakshya Nain · Anirban
-
+**Apan Sirohi**
 **School of Computer Science and Engineering**  
 **VIT Bhopal University — Dec 2024**
 
